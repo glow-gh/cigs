@@ -9,6 +9,12 @@ Tags:
 ANE, Cuneiform
 ```
 
+References:
+
+* Wikidata
+* Wikipedia
+* Real-Lexikon der Assyriologie (if available)
+
 ## Location
 
 Data acquired:
