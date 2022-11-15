@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "When using this dataset, please cite as:"
+authors:
+- family-names: "Rattenborg"
+  given-names: "Rune"
+  orcid: "https://orcid.org/0000-0002-1422-9645"
+- family-names: "Johansson"
+  given-names: "Carolin"
+  orcid: "https://orcid.org/0000-0002-6645-2670"
+- family-names: "Melin-Kronsell"
+  given-names: "Nils"
+  orcid: "https://orcid.org/0000-0003-0924-6827"
+- family-names: "Nett"
+  given-names: "Seraina"
+  orcid: "https://orcid.org/0000-0001-8119-8757"
+- family-names: "Smidt"
+  given-names: "Gustav Ryberg"
+  orcid: "https://orcid.org/0000-0002-0107-7021"
+- family-names: "Andersson"
+  given-names: "Jakob"
+  orcid: "https://orcid.org/0000-0003-4184-9468"
+title: "Cuneiform Inscriptions Geographical Site Index (CIGS)"
+version: 1.5
+doi: 10.5281/zenodo.1234
+date-released: 2022-16-11
+url: "https://github.com/glow-gh/cigs"
